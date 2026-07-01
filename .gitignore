@@ -1,0 +1,9 @@
+venv/
+.env
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store
+tests/traces/*.json
+tests/traces/*.yaml
+app/data/catalog_test.json
